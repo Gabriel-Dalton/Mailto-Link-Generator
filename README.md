@@ -1,7 +1,3 @@
-Here's how you can explain the project on GitHub to make it understandable for others who might want to use it, contribute, or provide feedback:
-
----
-
 # Mailto Link Generator
 
 ## Overview
@@ -50,8 +46,5 @@ This project is licensed under the MIT License, which means you're free to use, 
 
 ### Get Started
 
-Ready to try it out? You can view the live demo and start using the tool [here](https://your-username.github.io/mailto-link-generator/). If you have any feedback, issues, or suggestions, feel free to open an issue in this repository.
+Ready to try it out? If you have any feedback, issues, or suggestions, feel free to open an issue in this repository.
 
----
-
-This explanation gives potential contributors and users a clear understanding of what the project does, why it's useful, and how they can contribute to it. It also sets expectations and encourages engagement from the community.
